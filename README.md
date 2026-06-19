@@ -283,4 +283,3 @@ This project is released under the [MIT License](LICENSE).
 Made with 🧠 + 🐍 + 🗄 for the Capstone Project @ Lovely Professional University
 
 </div>
-
