@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-Animal%20Species%20Prediction-8c1d18?style=for-the-badge&labelColor=5c1310" height="46"/>
 
-### Final Year Capstone Project
+### For Final Year Capstone - Individual Rough Project for tech Recalling/project Training)
 ### Lovely Professional University
 
 <br>
@@ -15,7 +15,7 @@
 | **Project Title** | Animal Species Prediction using Deep Learning |
 | **Mentor** | Jobanpreet Singh |
 | **Team Member** | Alekhya Dama |
-| **Role** | Team Leader |
+| **Role** | Project Developer |
 | **Project Role** | Programmer (Python, SQL, DBMS) |
 | **Domain** | Artificial Intelligence / Deep Learning / Data Engineering |
 
